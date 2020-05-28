@@ -9,4 +9,5 @@ Possible additional features would be listing recent news related articles for a
 3. The ability to identify recent trend support and resistance levels.
 4. Do percentage based comparison between current price and support/resistance.
 5. Display recommendation for buy, sell or hold. 
-6. Display relevant news items related to given stock. 
+6. Display relevant news items related to given stock.
+7. Visual graph based representation of data if GUI developed.
